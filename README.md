@@ -14,7 +14,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [Misc. Python Codes & Packages](https://github.com/javedali99/python-resources-for-earth-sciences): Python Compilation by Javed Ali from University of Central Florida.
 - [Misc. R Codes & Packages](https://github.com/javedali99/r-resources-for-data-science): R Compilation by Javed Ali from University of Central Florida.
 - [Geospatial Data Course in Python](https://github.com/UW-GDA/gda_course_2021): Online course developed by David Shean et al. from UWashington.
-
+- [Data Science Blog Tips](https://www.blog.dailydoseofds.com/): Blog on Data Science by Avi Chawla
 
 ## Learning
 - [UVA Rivanna](https://www.rc.virginia.edu/userinfo/rivanna/overview/): Website to sign up for workshops and get help on how to access Rivanna.
