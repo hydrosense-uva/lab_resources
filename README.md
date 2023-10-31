@@ -15,6 +15,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [Misc. R Codes & Packages](https://github.com/javedali99/r-resources-for-data-science): R Compilation by Javed Ali from University of Central Florida.
 - [Geospatial Data Course in Python](https://github.com/UW-GDA/gda_course_2021): Online course developed by David Shean et al. from UWashington.
 - [Data Science Blog Tips](https://www.blog.dailydoseofds.com/): Blog on Data Science by Avi Chawla
+- [First Published Book on GEE](https://link.springer.com/book/10.1007/978-3-031-26588-4?page=4#toc): The go-to resource for GEE as a PDF! Editors affiliated with Google, McGill, and USF.
 
 ## Learning
 - [UVA Rivanna](https://www.rc.virginia.edu/userinfo/rivanna/overview/): Website to sign up for workshops and get help on how to access Rivanna.
